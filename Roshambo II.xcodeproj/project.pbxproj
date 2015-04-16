@@ -13,6 +13,7 @@
 		E92EB0C41ADF4B7C00E1DED3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E92EB0C31ADF4B7C00E1DED3 /* Images.xcassets */; };
 		E92EB0C71ADF4B7C00E1DED3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E92EB0C51ADF4B7C00E1DED3 /* LaunchScreen.xib */; };
 		E92EB0D31ADF4B7D00E1DED3 /* Roshambo_IITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E92EB0D21ADF4B7D00E1DED3 /* Roshambo_IITests.swift */; };
+		E92EB0DD1ADF4D4D00E1DED3 /* ShowWinnerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E92EB0DC1ADF4D4D00E1DED3 /* ShowWinnerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		E92EB0CC1ADF4B7D00E1DED3 /* Roshambo IITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Roshambo IITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E92EB0D11ADF4B7D00E1DED3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E92EB0D21ADF4B7D00E1DED3 /* Roshambo_IITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Roshambo_IITests.swift; sourceTree = "<group>"; };
+		E92EB0DC1ADF4D4D00E1DED3 /* ShowWinnerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShowWinnerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				E92EB0BC1ADF4B7C00E1DED3 /* AppDelegate.swift */,
 				E92EB0BE1ADF4B7C00E1DED3 /* ViewController.swift */,
 				E92EB0C01ADF4B7C00E1DED3 /* Main.storyboard */,
+				E92EB0DC1ADF4D4D00E1DED3 /* ShowWinnerViewController.swift */,
 				E92EB0C31ADF4B7C00E1DED3 /* Images.xcassets */,
 				E92EB0C51ADF4B7C00E1DED3 /* LaunchScreen.xib */,
 				E92EB0BA1ADF4B7C00E1DED3 /* Supporting Files */,
@@ -214,6 +217,7 @@
 			files = (
 				E92EB0BF1ADF4B7C00E1DED3 /* ViewController.swift in Sources */,
 				E92EB0BD1ADF4B7C00E1DED3 /* AppDelegate.swift in Sources */,
+				E92EB0DD1ADF4D4D00E1DED3 /* ShowWinnerViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
